@@ -1,1 +1,1 @@
-The code and dataset is about the algorithm "Joint Contrastive Triple-learning", the details will be public after the corresponding paper is accepted.
+The code and dataset are about the algorithm "Joint Contrastive Triple-learning", and the details will be public after the corresponding paper is accepted.
