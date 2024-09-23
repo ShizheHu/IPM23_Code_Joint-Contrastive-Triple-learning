@@ -1,6 +1,6 @@
 The code and dataset are about the algorithm "Joint Contrastive Triple-learning", and all the details are in the ZIP file.
 
-If you are going to using our code, please cite our paper with the following:
+If you are going to using our code, please cite our paper **[Highly Cited Paper]** with the following:
 
 @article{JCT2023IPM,\
   author    = {Shizhe Hu and
